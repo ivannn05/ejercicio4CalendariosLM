@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+
+
+.tabla1{
+	
+	background-color:bisque;
+	border:black;}
+	
+	table{
+		
+	background-color:white;
+		
+	}
+	
+	
+
+.tabla2{
+	
+	background-color:bisque;}
+	
+	
+	
+	
+
+.tabla3{
+	
+	background-color:bisque;}
+	
+.cuadrogris{
+	background-color:grey;
+	
+}
+
+.cosa3{
+	
+	border: solid black;
+	background-color:grey;
+	
+}
+
+.cuadromarillo{
+	background-color:yellow;
+}
+
+.cuadronaranja{
+	background-color:orange;
+}
+
+.cosa1{
+	background-color:yellow;
+	border: solid black;
+}
+
+.cosa2{
+	background-color:black;
+	border: solid black;
+	color: white;
+}
